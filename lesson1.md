@@ -2,7 +2,7 @@
 
 Name
 ----
-Kenny Hsu
+**Kenny Hsu**
 
 Date
 ----
